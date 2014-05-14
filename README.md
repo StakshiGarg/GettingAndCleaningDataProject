@@ -1,4 +1,8 @@
 GettingAndCleaningDataProject
 =============================
+This is for describing how scripts work
 
-This is for submitting project for Getting and Cleaning Data course
+* run_analysis_download_data.R: can be used for downloading data
+* run_analysis.R : creates clean data after processing available dataset
+    
+
